@@ -1,0 +1,19 @@
+# Ambientes virtuais
+**/venv/
+**/.venv/
+**/env/
+
+# Credenciais e variáveis de ambiente
+**/.env
+
+# Ficheiros compactados
+**/*.zip
+
+# Cache e ficheiros temporários
+**/__pycache__/
+*.pyc
+**/node_modules/
+
+# Bases de dados locais
+*.sqlite3
+*.db
